@@ -1,0 +1,5 @@
+node_modules/
+gdurl.sqlite*
+backup/*.sqlite
+package-lock.json
+sa/*json

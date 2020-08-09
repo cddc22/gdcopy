@@ -1,0 +1,356 @@
+# aria2c -c --enable-rpc=false -i uri.txt
+
+# 文件大小：965.38 MB
+https://3.xzx.workers.dev/api/download/HZDS.part71.rar?expired=1596951964625&id=1hCuIqYHYwCSzXDIuRN5Zwyy41bcXeoGX&sig=2d59249b13e358e0a1be9571b64364984063ab83a5d9e1baf927018eaf160e59
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part71.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part70.rar?expired=1596951964625&id=1a8qDQor7JH1QIv8NSX-KboY02I1Bx7CN&sig=9c02802d0af0bbab6b942d48c323cd398ef5551dcf6b001a81455212e9775027
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part70.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part69.rar?expired=1596951964625&id=15JR46dr4OXZzDlbLxwWBxqOdXUsEjNdt&sig=17d0a1cd924adf1a557caed76b6b0c36fa307e59b2731b09d7b9d1b6d8b71bbd
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part69.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part68.rar?expired=1596951964625&id=1KbET5ioj4frrnuvJzLadSk7aFB0AkoN7&sig=65650eeac784e8766578e08adadf18e4f2549097abeedc50ebf0914a2b294b63
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part68.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part67.rar?expired=1596951964625&id=1ZZL9vq-HzY51aDwDKmDp4oe0Oyb5JuxA&sig=3ee789d8188f64e4d419bc961165b7e302fa9618442827a959659a228bede1ca
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part67.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part66.rar?expired=1596951964625&id=1b6hNIAjWK0Ksq3FWI1M8s3I-0CdPRWZ7&sig=1c37fa7d3b0116e90ef0c9369f3168042986367bd827f306b0d780a8aa7b5fa5
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part66.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part65.rar?expired=1596951964625&id=1FNPa7y4AANeKWyeFWJJ3_HeBozeVDTXL&sig=390aedefe6958b4973bfd6101bf232e542f6d31dc191f601d2152177fd5d9fe3
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part65.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part64.rar?expired=1596951964625&id=11FZWd2rxkwYsvfKnFNATtXckayuedAQI&sig=d8b5d3677f55e81ed7c510eded45247580bc62f15c959671938beceab1614bb7
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part64.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part63.rar?expired=1596951964625&id=1WbZw7LW4Y6sQT5tmw13UpyRkeBJp1X-m&sig=2d3f075486abb46059c41eee4d58113966f517f758730dd72c9c1e8c2340b0bb
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part63.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part62.rar?expired=1596951964625&id=19wYtE-QsEpvgPPXiq-D12YbQdY9nr2a4&sig=568533ccd5972a9af07c9930ed6b968428d9d3aa84721eb2a4c5ae74dfc77899
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part62.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part61.rar?expired=1596951964625&id=1PYhZwZILj89KKAC2TuNWVgRrhfe5IqSl&sig=ffb78aface8019add83fc412e5c7022de9af816dadf68f2cdf4381e2a3e3d2c3
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part61.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part60.rar?expired=1596951964625&id=1MnuqqKEQSVi2-Qkr3rMl_kQhfhnT503E&sig=bfbcdb33169389f23ad1ed93c20d62ae231f3750497143b3855a5a53ce387062
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part60.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part59.rar?expired=1596951964625&id=1yQsf5oUm5kq-V9TB49vEn_wsn5TRZfUq&sig=984c14cc17db2cd5e545f06fa35377b53e62d0b59af91236015115d8cbe086cf
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part59.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part58.rar?expired=1596951964625&id=1Naki_QBBnFXUYUtD9d0QIo3eeTMU_6It&sig=958470ac211e48f3b25de675849e7e64d5827c371fd23d04882471f9d0dadcd3
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part58.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part57.rar?expired=1596951964625&id=17rtKo6WKxQJa7trwlapsKpoI_ZSBuZi_&sig=27abdc210226207c9400972d6eff24a0e22a0d25abf51aedfa3883fb859d2f98
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part57.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part56.rar?expired=1596951964625&id=13MMHvZPMGjvu8HZb8sL8mq3xyPHPN68R&sig=ea2ea0109063bee27b0855183bab1ab85dced1d6921d2a668b3ef0a0b4cffb8f
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part56.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part55.rar?expired=1596951964625&id=1wKoXpU1nBMOfnHOp_Z4SlEtdeo1Ulr97&sig=1a660c288b00e4af68dadab755a85fc062983bb351fe58cf60bcbaf2d9776069
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part55.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part54.rar?expired=1596951964625&id=1lRdSRmCT7L49VEfAHdsdjGTvZe5t2CUI&sig=fec52a71209f44143e26ca4637dd32f02151300ef5681318dd1c2114297722f3
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part54.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part53.rar?expired=1596951964625&id=1ZDDYG1ShRa311jLHNCSzA45epsFoiSve&sig=dfcc34fbff87829db00aea935b7b95a94fcabbeb86e5fcaac10cfd2ba3c24ebf
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part53.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part52.rar?expired=1596951964625&id=1q8I5wQY1ohvKeT8MH5JDSBKenisMQpXa&sig=940bfea8e2585ec4c7319f976e396e1a43a46200027fd6a4b7942271d8e77f62
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part52.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part51.rar?expired=1596951964625&id=1RoNXm41U_DByYQbrg7Kex-_t573Vukpn&sig=c0b420810bba473dcbeeb994e287dc6db8f3b4431b50b1d42a2baef541eeb310
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part51.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part50.rar?expired=1596951964625&id=1_PiHLUSHW2FpxCrGPfC9sYNajy-DSvA3&sig=b6d4c2e274431f3bb6621d59fa644b4c720efd5dfbe426cab7b716e67739b450
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part50.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part49.rar?expired=1596951964625&id=1Zn4BMnBI8NBKO99TdNkVU-nycw6uDkE4&sig=f205b2b59e83b0c325bd83e5c19fb3202d7e43b26359232b04c2ab76447de5ac
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part49.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part48.rar?expired=1596951964625&id=1AC6ViqR-hmYo3Qow3pKycZtK1qjKKwOr&sig=b730fa40fd257e5d6d5963fcd229447f8c2688d7a7ff4329aa7f64002e5afb21
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part48.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part47.rar?expired=1596951964625&id=1AD30xhUDbwXiAxPA5J3Bfh-gegoJfD99&sig=73addf85beaa06a045575a60f01aa325e6c0fa6f2fde488c8a4f2240fdef0720
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part47.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part46.rar?expired=1596951964625&id=1ojtDZWzXhIJjHECr63OLuIwyjMcn3ksB&sig=3bfc2c1086cfea2bdc4a7c67ade8626ee89f83c48b43f1bbfbb5c90eb7b3afed
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part46.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part45.rar?expired=1596951964625&id=1tGlhcG0N8Mfzss0lDqPCaUSb7SQZ9Kin&sig=18741c956490286788f2524564fe49991cafa0f3097a67962ae1dfc6ad39438a
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part45.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part44.rar?expired=1596951964625&id=1DkwgJkURE_RvjnGO8YpsPL9z7DUkp-Er&sig=8c3c378972adbb7a325c2060e5c121034abb67c500a0b0316ed5c109e3757906
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part44.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part43.rar?expired=1596951964625&id=14lDYEFRd6SgEmPx7TEuuUIFSWAjJkvqr&sig=2cf082921e72fef9ef06fb5257e3c11381193662693b7ab178fa18c1cd44b48f
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part43.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part42.rar?expired=1596951964625&id=14VfeH1twxAHpuQOWyjyfeo5tbl-a3DFk&sig=85f9247b1fb62031dedb6cb3081c78474fd7af290c4d05e3e67297d190eee914
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part42.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part41.rar?expired=1596951964625&id=1gmeSLM6aZ7CGcQuywW_crsKhtIxibRzA&sig=d122adfaa772b520791a46c86b6bab9848d5048b92e93a537ba561f557ad7629
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part41.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part40.rar?expired=1596951964625&id=14FmzaoGhG79ppGEl4uV1ByLrwwQMxnW9&sig=b72f813f2ff564dae94c58141f3aac540854dcbd31ac17512d23ba34cba138f2
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part40.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part39.rar?expired=1596951964625&id=1G-OC0oQMDzrxxc3EfQ0YwIvEVG4_4IYS&sig=4368ec05bef2e9bdffc09b302bfc779e9d60b1114b560de1bd3d51c07374034d
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part39.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part38.rar?expired=1596951964625&id=1rVm7mc-ih3WNqpn1jkKaj6VPVaLhnj8G&sig=c3694e8fda4c72d215fd4456c1e44b37389673fedb95cd9875d2d3f5bf9a4a55
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part38.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part37.rar?expired=1596951964625&id=14GJIX7hpgrybO6v3t1YtTwx8Njm13Fc6&sig=4f3a8bc40194b56a154d5a309f617b9759a435c38b86f6a49d0e709b012d7e0e
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part37.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part36.rar?expired=1596951964625&id=1py7xElYKSCMisTDAyzBv0oxiV9rUtGWz&sig=f74ceabe1aa510d90aba9cbcec663f5858b8d89673708fe29f4dd0d3b7b705df
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part36.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part35.rar?expired=1596951964625&id=1jJsXcxvuH6Gyj-nwaLyFW7cQe5lbWpkN&sig=3e754c9cfe07bc5093ed7f9153b9df131640b626ea2b18e848032108d3de756b
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part35.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part34.rar?expired=1596951964625&id=13B8c3sGUj7aMKoBhdItZMGwYiaV4Yg5O&sig=fbcaaf12f1e537f83faebc57cf74f9188322efe03d85af03edf19e6ab7034b96
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part34.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part33.rar?expired=1596951964625&id=1xdvUUyhhTvoO6NctYzoLsLU5GgwNDwHq&sig=c77839b31abf38ecba5d805117db533a0988e99ef144e634ee31664c53d8d2c2
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part33.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part32.rar?expired=1596951964625&id=1S_DeoJZvFo9sP_JTD5mc3wW24ougGpM0&sig=61b4defb0c3970e53dc7a2c3c5c61319018456b2b013e31a2f952d1f8feca1b0
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part32.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part31.rar?expired=1596951964625&id=1NOwJfooo_pmyzEoUvpQ1rAzl9tgyQblL&sig=affe7e55da9a41523b8aa5ea013da09aea9aac2ea3226febf6bcf99ce6d01145
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part31.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part30.rar?expired=1596951964625&id=1Io4ouOOiqLl_p1X9YohTN6dWsktXRYKE&sig=39af10f3b500bf145fe1a180d388f7b1dc27098af5e10bbfd312fcdbf3304201
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part30.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part29.rar?expired=1596951964625&id=1pVB-FuGT-gCY_igZLR5ldQL46uQ5CKUQ&sig=b9a187c81ecf14acb199ec94eae2d079b06f54aedff780e020d9672e78936735
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part29.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part28.rar?expired=1596951964625&id=1YXh_WlqcaSVAwj1x02cAfkj5AdrvHend&sig=03017ef5deb104bc00ff85be9d2a7f686e868cafcd625d1b36683bdb29aec8c2
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part28.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part27.rar?expired=1596951964625&id=1JFnfHaurF766oxbG2luVZQSRS7qgx3jF&sig=6a7deb328820774fa201d1e7a2d51a42d2e6149d52bfacea02fef2653653b5f0
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part27.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part26.rar?expired=1596951964625&id=1EWSfNeE6IsKiC9mwI6Qdj16e_x2rHnUI&sig=add2c0a1bc077dd1f0a50e972685ab5ff87fa940a98a79b8a724e9ff679c5618
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part26.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part25.rar?expired=1596951964625&id=1DqbesK3khUhvtgFUr8uVyLeS_NEOXdPA&sig=cc8d2ecb1c40a7fa08262ec2649d5ca972477af06bdbe821cdb7df3c941d659b
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part25.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part24.rar?expired=1596951964625&id=1rzdrHbspssgwU07N2LOTaglmvGtOZUOT&sig=f95e7d0ff0a0495300758cada8d4e1d845145ed0b8fa725b60627b6d8e4a1c2f
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part24.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part23.rar?expired=1596951964625&id=1B7KpO36o4Uz9zjBfU8BmdhgBdEYPx9zW&sig=9a9be3dc9e45d2a8e990a228e5f05592ca78e396ad5c22b08416a134eaadb64b
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part23.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part22.rar?expired=1596951964625&id=1pgBbStDBRhCYmZwdKUNQ_Vbfc4KHO1jT&sig=0207d4aded312c84f66a21f2c3d34d3393178220366f0fcbe44ce0e24200ef7b
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part22.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part21.rar?expired=1596951964625&id=1kHSDK_uDNy8f0YdYxkdFR-nGnp_dHebH&sig=2a88ece7fcbbac1e1fd9ef9528b32a048c706941ce788e95db3369e482161b1b
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part21.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part20.rar?expired=1596951964625&id=1IhwMWaFQUL7i7w1kqEkQ6O26CN1huBfb&sig=61cef7ecd1633da1a18ed7480b80837e9a0843ca69c348e8fef6899f3db3a12a
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part20.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part19.rar?expired=1596951964625&id=1JBxsdYJPnSZq5T4eobTsSloxAIsip-Hl&sig=2202c1fc106b135efb28f5c714ca86cbaa8a76a6a0c100cc7812ee947f604f9c
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part19.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part18.rar?expired=1596951964625&id=18PBa-VVYU_jFm_AC4beYBkURGefFkb0_&sig=10ebcbb62cfe8210667f92dc8f37550eb88cfdecd05e26ac4e8b9f652a76456e
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part18.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part17.rar?expired=1596951964625&id=1tP3JHyyN_ZjjzwyROroSUHh7CvYW833x&sig=34e5ed2a5cdad636f2bf604cb6f6b200acd927285ed1a5b1daa57c7edac22c91
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part17.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part16.rar?expired=1596951964625&id=1JpQy0L1EbksE2vqjVrNhP6w7AjFK-ihc&sig=58ffd78af7100073d2318457963a792c909a9696ea9bc2b45a50c673ad91e201
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part16.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part15.rar?expired=1596951964625&id=1jcHOvS9S5WIVuNbTNL49daeXlaB7w0wV&sig=0b8fafc8bd1a222eff887181031e0ec42744be3ca6dfae7bfe9233d248ec5d8d
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part15.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part14.rar?expired=1596951964625&id=1-LceehIGyc4GENFSygcjL9SAdFiAdfcj&sig=8707932407eb5176c910a35679ff9d3f8dd4f2c8d31cb2f4c1a44d89c5422272
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part14.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part13.rar?expired=1596951964625&id=1eoUbxtxjXMssNUBZoEHFIeGP1okBwduk&sig=5e2f67351c76acd6abcef7f389ddda38f33de3269fc9b8e3cc13ce92ffb33198
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part13.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part12.rar?expired=1596951964626&id=15iVqNdQLggqkepKyeRzUNBlfzkPqBQCF&sig=f28463438a2e576e3bc52da2c65ca4d297fbdfe2e54b26cdb04e0f7c829ba336
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part12.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part11.rar?expired=1596951964626&id=1KQbIMv23QUtBDymuQUUinrOAbSaenyMy&sig=9bf01bde74dcdd59fbb8b9e936d6392b2e64f0a522e46e9f74ba1dab4742b609
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part11.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part10.rar?expired=1596951964626&id=1sGNyr7cI68gSq9OaxiI_faf-CU-z--kW&sig=4b3c07439ec256ca7f92a764d4d603f7ca6647656fc53eb8706ef03e0a56adfd
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part10.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part09.rar?expired=1596951964626&id=1RTar43xUvrfa5nvJyE9yv2kza6HL5HuY&sig=d8035f785175531f73aafe2e2df96c0b5ad084f2ccf94b459175a0d642422ec5
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part09.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part08.rar?expired=1596951964626&id=161p1R8x2M6N1xDvC80rVmYPRtDJ3ZI8l&sig=dca9f6f357ef5f189ca74497604f587ae8dd6244c2bf421899d2ce3f251abd46
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part08.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part07.rar?expired=1596951964626&id=19c6PlNTCOFZsOo4gf_stxAKlO4LiQ4o7&sig=13b6fe3f0d6c60ec9143297b78afa66cab14a96bed57116982b8da3ad9814dfa
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part07.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part06.rar?expired=1596951964626&id=1MK10XERx9MKEurOkc5pKXorBIcWQyPPz&sig=e764220b5867da2af352596fbba4c13a11a0bc5f1224423de9203e44cc43d0e9
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part06.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part05.rar?expired=1596951964626&id=1ywE3MYAr32jprUD5ejboMfCwvig9k-t9&sig=f9d3571b6ce190ade046e4c406bad6d91b06ff31d0afe57745987d7cf9d8a55f
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part05.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part04.rar?expired=1596951964626&id=1aHXEcW0gvQREGZI0TuQJrL0hgW-xv-_5&sig=7fb5233e1d12b0595836f4b7816540bf348e2526ee8c1f63c7b2a49cd4ef9138
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part04.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part03.rar?expired=1596951964626&id=1XvXRkfO7V8O_zxd6Hxe4mcMTzezdUffN&sig=503728beb94e80b603350201497607ebefa2d2fd1b90fe8bc88c513cd363cb95
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part03.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part02.rar?expired=1596951964626&id=1EwGl7jsNGpaHxav7y8_81bELA7JPC8vJ&sig=c50c969c722a39fcbb092f9c1192ff11c827377d7c144da9ed3bbbfaf6f3c868
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part02.rar
+
+# 文件大小：1000.00 MB
+https://3.xzx.workers.dev/api/download/HZDS.part01.rar?expired=1596951964626&id=10bhil0qn9WVnW0LjMMnqhKaYwZmLU7Mx&sig=f2be08198d8a8ddefb6560bf1e0bfb2dcb15a41d33dab0bb54991a5990118b1f
+  dir=地平线：零之曙光 免安装绿色中文版分享2020808 Horizon Zero Dawn Steam 68.3GB 压缩包
+  out=HZDS.part01.rar
